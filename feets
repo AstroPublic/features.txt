@@ -9,6 +9,8 @@
  - No Recoil
  - Reduce Spread
  - No Shoot Delay
+ - Infinite Range
+ - Shotgun Instant Reload
  [VISUALS]
  - Show Boxes
  - Show Names
@@ -33,3 +35,4 @@
  - Loot Stealer
 [Dont Use High Hitboxes With Kill All]
 [Almost Every Combat Features Customizable(Fov Sliders etc.)]
+[Infinite Range Is A Rage Setting Used To Kill People That Are Above The Map]
